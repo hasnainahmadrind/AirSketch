@@ -1,0 +1,6 @@
+{
+  "name": "Hand Tracking Paint",
+  "description": "A futuristic real-time hand-tracking drawing application powered by MediaPipe Hands and HTML5 Canvas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
